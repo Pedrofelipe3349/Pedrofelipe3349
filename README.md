@@ -1,7 +1,7 @@
 <h1 align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJlZjY0MDk0YzNmZDRjYmZjNTY5YzZhOGQyMTE3MjFmYWJkOWM2NyZjdD1z/nTY7xABlmpgQe9ZcFs/giphy.gif" width="90">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJlZjY0MDk0YzNmZDRjYmZjNTY5YzZhOGQyMTE3MjFmYWJkOWM2NyZjdD1z/nTY7xABlmpgQe9ZcFs/giphy.gif" width="50">
 Hello I'm Pedro Felipe
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJlZjY0MDk0YzNmZDRjYmZjNTY5YzZhOGQyMTE3MjFmYWJkOWM2NyZjdD1z/nTY7xABlmpgQe9ZcFs/giphy.gif" width="90">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJlZjY0MDk0YzNmZDRjYmZjNTY5YzZhOGQyMTE3MjFmYWJkOWM2NyZjdD1z/nTY7xABlmpgQe9ZcFs/giphy.gif" width="50">
 </h1>
 
 ⚡ Fun fact **I like to play games, especially rpgs, travel and petting cats**
