@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrofelipe3349&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
+##.
+
 ![snake gif](https://github.com/Pedrofelipe3349/Pedrofelipe3349/blob/output/github-contribution-grid-snake.svg)
 
 
