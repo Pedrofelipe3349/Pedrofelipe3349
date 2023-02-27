@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ## **Stats** 🔥
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrofelipe3349&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrofelipe3349&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 ![Snake animation](https://github.com/Pedrofelipe3349/Pedrofelipe3349/blob/main/.github/workflows/main.yml)
 
