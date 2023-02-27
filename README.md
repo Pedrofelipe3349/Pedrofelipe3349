@@ -5,23 +5,11 @@ Hello I'm Pedro Felipe
 </h1>
 
 ⚡ Fun fact **I like to play games, especially rpgs, travel and petting cats**
+<br />
+
+On an eternal journey in search of a job 😊
 
 ![Followers](https://img.shields.io/github/followers/Pedrofelipe3349?logo=github&style=for-the-badge)
-
-<!--
-**Leonardo-Lourenco/Leonardo-Lourenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrofelipe3349&layout=compact&langs_counts=16&theme=dark)
 
@@ -45,8 +33,8 @@ Here are some ideas to get you started:
 
 
  
-  <a  href="https://www.linkedin.com/in/leonardo-lourenco-0594b1139/"><img align="left" alt="Linkedin" title="Youtube" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a  href="https://www.instagram.com/coffee.tag.podcast/"><img align="left" alt="Youtube" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a  href="https://www.linkedin.com/in/pedro-felipe-fernandes-a130151a7/"><img align="left" alt="Linkedin" title="Youtube" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a  href="https://www.instagram.com/pedroffernandess/"><img align="left" alt="Youtube" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrofelipe3349@gmail.com)
 
 ## **Stats** 🔥
